@@ -1,7 +1,7 @@
 +++
 title = "Servers"
 chapter = true
-weigth = 5
+weigth = 100
 +++
 
 # Servers

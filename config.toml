@@ -1,4 +1,4 @@
-baseURL = "http://documentation.radio.warwick.ac.uk"
+baseURL = "http://docs.radio.warwick.ac.uk"
 languageCode = "en-us"
 title = "RAW Documentation"
 theme = "hugo-theme-learn"
@@ -8,6 +8,7 @@ theme = "hugo-theme-learn"
 
 [params]
 	themeVariant = "custom"
+	disableInlineCopyToClipBoard = true
 
 [[menu.shortcuts]]
 name = "<i class='fa fa-github'></i> GitHub Repo"

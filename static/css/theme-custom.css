@@ -8,7 +8,7 @@
     --MAIN-ANCHOR-color: #d8b222; /* color of anchors on titles */
     --MAIN-BG-color: #3d3d3d;
 
-    --MENU-HEADER-BG-color:#2b2b2b; /* Background color of menu header */
+    --MENU-HEADER-BG-color:#3d3d3d; /* Background color of menu header */
     --MENU-HEADER-BORDER-color: #d8b222; /*Color of menu header border */ 
 
     --MENU-SEARCH-BG-color: #3d3d3d; /* Search field background color (by default borders + icons) */
@@ -102,4 +102,12 @@ a:hover {
 
 #sidebar hr {
     border-color: var(--MENU-SECTION-HR-color);
+}
+
+div#top-bar {
+    background: var(--MENU-SECTIONS-BG-color);
+}
+
+.nav:hover {
+    background: var(--MENU-SECTIONS-BG-color) !important;
 }
