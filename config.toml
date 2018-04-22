@@ -13,4 +13,4 @@ theme = "hugo-theme-learn"
 [[menu.shortcuts]]
 name = "<i class='fa fa-github'></i> GitHub Repo"
 identifier = "ds"
-url = "http://www.google.com"
+url = "https://github.com/ConnorPowell/RAWDocumentation"
