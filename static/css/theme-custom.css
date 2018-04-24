@@ -111,3 +111,8 @@ div#top-bar {
 .nav:hover {
     background: var(--MENU-SECTIONS-BG-color) !important;
 }
+
+th {
+    background: var(--MENU-SECTIONS-BG-color);
+    color: var(--MAIN-TITLES-TEXT-color);
+}
