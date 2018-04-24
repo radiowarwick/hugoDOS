@@ -4,7 +4,7 @@ The RAW Documentation is a [Hugo](https://gohugo.io/) site using the [Learn](htt
 
 ## Installation Instructions
 
-1. Clone this repository `git clone --recursive https://github.com/ConnorPowell/RAWDocumentation.git`
+1. Clone this repository `git clone --recursive https://github.com/radiowarwick/hugoDOS.git`
 2. Install [Hugo](https://gohugo.io)
 
 ## Updating Version
