@@ -19,7 +19,7 @@
     --MENU-SECTIONS-BG-color: #2b2b2b; /* Background color of other sections */
     --MENU-SECTIONS-LINK-color: #ccc; /* Color of links in menu */
     --MENU-SECTIONS-LINK-HOVER-color: #e6e6e6;  /* Color of links in menu, when hovered */
-    --MENU-SECTION-ACTIVE-CATEGORY-color: #fff; /* Color of active category text */
+    --MENU-SECTION-ACTIVE-CATEGORY-color: #2b2b2b; /* Color of active category text */
     --MENU-SECTION-ACTIVE-CATEGORY-BG-color: #d8b222; /* Color of background for the active category (only) */
 
     --MENU-VISITED-color: #33a1ff; /* Color of 'page visited' icons in menu */
@@ -115,4 +115,8 @@ div#top-bar {
 th {
     background: var(--MENU-SECTIONS-BG-color);
     color: var(--MAIN-TITLES-TEXT-color);
+}
+
+#chapter p {
+    text-align: left;
 }
